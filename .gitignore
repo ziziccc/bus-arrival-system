@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 임시 TTS 파일
+temp_tts_output.mp3
+
+# 버스 번호 저장 파일 (런타임 생성)
+bus_number.txt
+
+# Google Cloud 서비스 계정 키 (절대 올리면 안 됨)
+*.json
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+pyaudio
+google-cloud-speech
+gtts
+requests
+pyserial
+pygame
+RPi.GPIO
